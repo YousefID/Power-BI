@@ -12,7 +12,15 @@ This dashboard presents key metrics for IT services, including the number of ser
 ![ITServices](IT_Services.png)
 
 
-## Project 3: Sales Highlights by Region and Time
+## Project 3: Products Analysis Dashboard
+
+This dashboard offers a comprehensive view of product performance across key metrics such as sales, profit, stock levels, and customer engagement. It highlights top and low-performing SKUs, tracks sales vs. profit trends, and provides actionable insights into inventory status and product demand, enabling data-driven decisions for merchandising and supply chain optimization.
+## Preview
+
+![products](ProductsAnalysis.png)
+
+
+## Project 4: Sales Highlights by Region and Time
 
 This section summarizes key sales trends by month and city. It highlights customer distribution across regions and provides insights into temporal sales performance.
 ## Preview
@@ -23,7 +31,7 @@ This section summarizes key sales trends by month and city. It highlights custom
 
 
 
-## Project 4: Adidas Sales Sample Dashboard – Unit Sales & Product Distribution
+## Project 5: Adidas Sales Sample Dashboard – Unit Sales & Product Distribution
 
 This sample dashboard displays test data for Adidas sales, focusing on units sold and product counts segmented by retailer and sales method (Online, Outlet, In-Store). It provides a simplified view to validate data structures and visual logic before applying to live production data
 ## Preview
