@@ -23,10 +23,20 @@ This dashboard offers a comprehensive view of product performance across key met
 
 ![products](ProductsAnalysis.png)
 
+## Project 4: Order Shipment Analysis
 
-## Project 4: Sales Highlights by Region and Time
+This project features two interactive dashboards:
+ - Shipment SLA Dashboard: Tracks order shipments against service level agreements (SLAs), highlighting delays and on-time performance.
+## Preview
+![shipment1](PromiseDeliveryDashboard.png)
 
-This section summarizes key sales trends by month and city. It highlights customer distribution across regions and provides insights into temporal sales performance.
+ - Courier Analysis Dashboard: Breaks down courier performance by region and city, showing total orders delivered and coverage distribution.
+## Preview
+![shipment2](Delivery_Analysis_2_Courier_Analysis.png)
+
+## Project 5: Sales Highlights by Region and Time
+
+This section summarizes key sales trends by month and city. It highlights customer distribution across regions and provides insights into sales performance.
 ## Preview
 
 ![sales2](SalesHighlight2.png)
@@ -35,7 +45,7 @@ This section summarizes key sales trends by month and city. It highlights custom
 
 
 
-## Project 5: Adidas Sales Sample Dashboard – Unit Sales & Product Distribution
+## Project 6: Adidas Sales Sample Dashboard – Unit Sales & Product Distribution
 
 This sample dashboard displays test data for Adidas sales, focusing on units sold and product counts segmented by retailer and sales method (Online, Outlet, In-Store). It provides a simplified view to validate data structures and visual logic before applying to live production data
 ## Preview
