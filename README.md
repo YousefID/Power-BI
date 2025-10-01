@@ -4,6 +4,10 @@ This dashboard provides a daily overview of order performance and Gross Merchand
 ## Preview
 ![sales](SalesDailyMonitors.png)
 
+## Preview Daily Monitoring 2
+
+![Zode_DailyMonitoring](Zode_DailyMonitoring.png)
+
 ## Preview Customers Analysis
 
 ![Customers Analysis](Customers_Analysis.png)
