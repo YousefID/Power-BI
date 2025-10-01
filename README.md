@@ -4,9 +4,9 @@ This dashboard provides a daily overview of order performance and Gross Merchand
 ## Preview
 ![sales](SalesDailyMonitors.png)
 
-## Preview Grand Lanuch Dashboard
+## Preview Customers Analysis
 
-![Grand_Launch Dashboard](GrandLaunch.png)
+![Customers Analysis](Customers_Analysis.png)
 
 
 ## Project 2: IT Services Dashboard: Requests, Savings Amount, and Mandays Overview
